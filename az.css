@@ -1,0 +1,319 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.d1 {
+    height: 180px;
+    width: 70%;
+}
+
+.d10 {
+    height: 100px;
+    width: 80px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 1%;
+    
+}
+
+.d11 {
+    float: left;
+    font-size: 45px;
+    color: white;
+    font-family: Old English Text MT;
+    line-height: 110px;
+}
+
+.d12 {
+    color: white;
+    font-size: 17px;
+    float: left;
+    margin-left: 140px;
+}
+
+.d13 {
+    color: white;
+    line-height: 50px;
+    font-size: 17px;
+    float: left;
+    margin-left: 220px;
+}
+
+.d2 {
+    height: 40px;
+    width: 100%;
+    background-color: #003366;
+    margin-top: 20px;
+}
+
+.d20 {
+    height: 80%;
+    width: 14%;
+    float: left;
+    margin-top: 3px;
+    margin-left: 7.50%;
+    background-color: white;
+    color: black;
+    line-height: 30px;
+
+}
+    
+
+.d21 {
+    height: 80%;
+    width: 14%;
+    float: left;
+    margin-top: 3px;
+    color: white;
+    line-height: 30px;
+   
+}
+
+.d22 {
+    height: 80%;
+    width: 14%;
+    float: left;
+    margin-top: 3px;
+    color: white;
+    line-height: 30px;
+    
+}
+
+.d23 {
+    height: 80%;
+    width: 14%;
+    float: left;
+    margin-top: 3px;
+    color: white;
+    line-height: 30px;
+   
+}
+
+.d24 {
+    height: 80%;
+    width: 14%;
+    float: left;
+    margin-top: 3px;
+    color: white;
+    line-height: 30px;
+
+    
+}
+
+.d25 {
+    height: 80%;
+    width: 14%;
+    float: left;
+    margin-top: 3px;
+    background-color: white;
+    color: black;
+    line-height: 30px;
+   
+}
+
+.d3 {
+    height: 500px;
+    width: 85%;
+    margin-left: 7.50%;
+    margin-top: 6px;
+}
+
+.d30 {
+    height: 100%;
+    width: 100%;
+}
+
+.d31 {
+    text-align: center;
+    margin-top: 10px;
+    color: yellow;
+}
+
+.d4 {
+    height: 720px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 50px;
+}
+
+.d40 {
+    height: 100%;
+    width: 30%;
+    float: left;
+    
+    
+}
+
+.d41 {
+    height: 100%;
+    width: 69.6%;
+    float: left;
+   
+}
+
+.d400 {
+    height: 49%;
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.d401 {
+    height: 49%;
+    width: 100%;
+    margin-top: 3%;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.d410 {
+    height: 38px;
+    width: 98%;
+    background-color: #003366;
+    text-align: center;
+    margin-top: 5px;
+    float: right;
+    line-height: 35px;
+    color:  white;
+    border-radius: 5px;
+}
+
+.d400a {
+    height: 38px;
+    width: 96%;
+    background-color: #003366;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 1.5%;
+    color: white;
+    border-radius: 5px;
+}
+
+.da {
+    height: 70px;
+    width: 96%;
+    margin-top: 1%;
+    margin-left: 1.5%;
+}
+
+.db {
+    height: 100%;
+    width: 25%;
+    background-color: #003366;
+    color: white;
+    float: left;
+   
+}
+
+.dc {
+    height: 97.5%;
+    width: 74%;
+    border: 1px solid black;
+    float: left;
+}
+
+.ha {
+    float: left ;
+    margin-top: 15px; 
+    margin-left: 5px;
+}
+
+.p1 {
+    margin-top: 15px; 
+    float: left; 
+    margin-left: 8px;
+}
+
+.p2 {
+    float: left; 
+    margin-left: 8px;
+}
+
+.p3 {
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.d400c {
+    height: 85%;
+    width: 96%;
+    margin-top: 13px;
+    margin-left: 1.5%;
+}
+
+table, th, tr{
+    border: 1px solid #F2F2F2;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.d41a {
+    height: 31%;
+    width: 98%;
+    float: right;
+}
+
+.aa {
+    height: 85%;
+    width: 26%;
+    float: left;
+    margin-left: 5.5%;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 200px;
+}
+
+.d5 {
+    height: 50px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    background-color: #003366;
+    line-height: 43px;
+    border-radius: 5px;
+}
+
+.d6 {
+    height: 220px;
+    width: 91%;
+    margin-top: 2%;
+    margin-left: 4.5%;
+}
+
+.d6a {
+    height: 100%;
+    width: 19.5%;
+    float: left;
+    border-radius: 7px;
+    margin-left: 5px;
+
+}
+
+.d6b {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.d7 {
+    height: 100px;
+    width: 100%;
+    background-color: #003366;
+    margin-top: 35px;
+    color: white;
+}
+
+.hx {
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+
